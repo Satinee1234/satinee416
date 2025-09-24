@@ -4,11 +4,10 @@
        alt="header image" width="250" height="250" />
 </p>
 
-<h1 align="center">
-  Hi, I’m Satinee Khundam 
-  <img height="30" width="20" 
-       src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Hi,%20I’m%20Satinee%20Khundam+👋" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <strong>Software tester, Robot Framework</strong><br/>
@@ -124,4 +123,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satinee1234&style=flat-square" alt="profile views"/>
 </p>
+
 
